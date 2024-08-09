@@ -8,4 +8,6 @@ git status
 git restore
 
 
+git config –global user.name “<user name>”
+git config –global user.email “<email id>”
 
